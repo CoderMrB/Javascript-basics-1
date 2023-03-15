@@ -14,14 +14,12 @@ if (my_variable === `Chris`){
     console.log(my_variable + "?! That's a silly name...")
 }
 
-let weatherType = `raining`
+let weatherType = `summat else`
 
-if (weatherType === `raining`){
-    console.log(`Take an umbrella!`)
-} else{
-    if (weatherType === `sunny`){
-        console.log (`Don't forget suncream!`)
-        }else{
-        console.log (`Must be a normal, grey, non-descript day!`)
-}
+if (weatherType === `raining`) {
+    console.log(`Take an umbrella!`);
+} else if (weatherType === `sunny`) {
+    console.log (`Don't forget suncream!`);
+} else {
+    console.log (`Must be a normal, grey, non-descript day!`);
 }
