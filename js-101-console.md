@@ -10,7 +10,6 @@
 ### Task 1:
 
 1. Make a variable that is a number.
-
 2. Read the value of that variable in your console.
 
 3. Reassign that variable to be itself plus 50.
